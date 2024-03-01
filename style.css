@@ -42,7 +42,7 @@ body{
     height: 15px;
     background-size: 40px 20px;
     background-image:
-      radial-gradient(circle at 6px -7px, #fff 12px, transparent 13px);
+      radial-gradient(circle at 6px -7px, #fff 12px, transparent 19px);
       }
 ::-webkit-scrollbar{
     width: 0;
